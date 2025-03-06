@@ -1,0 +1,28 @@
+Request:-
+
+{
+  "billId": 123,
+  "products": [
+    {
+      "productId": 1,
+      "name": "Product A",
+      "category": "Electronics",
+      "price": 200.0
+    }
+  ],
+  "user": {
+    "userId": 45,
+    "name": "John Doe",
+    "userType": "EMPLOYEE",   
+    "tenureInYears": 1
+  },
+  "originalCurrency": "USD",
+  "targetCurrency": "EUR"
+}
+
+
+Response:-
+
+{
+    "total": 123.32844
+}

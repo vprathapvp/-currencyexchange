@@ -1,3 +1,4 @@
+# Currency Exchange and Discount Calculation
 # Overview
 Develop a Spring Boot application that integrates with a third-party currency exchange API to retrieve real-time exchange rates. The application should calculate the total payable amount for a bill in a specified currency after applying applicable discounts. The application should expose an API endpoint that allows users to submit a bill in one currency and get the payable amount in another currency.
 
@@ -21,7 +22,7 @@ Develop a Spring Boot application that integrates with a third-party currency ex
 # Steps to Set Up
   # Step 1: Clone the repository
 
-   https://github.com/vprathapvp/-currencyexchange.git
+   git clone https://github.com/vprathapvp/Spring-Boot-Currency-Exchange-and-Discount-Calculation.git
 
    cd Spring-Boot-Currency-Exchange-Discount
 
